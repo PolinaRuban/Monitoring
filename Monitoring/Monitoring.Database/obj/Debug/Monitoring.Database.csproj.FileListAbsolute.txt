@@ -1,0 +1,24 @@
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Database.dll.config
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Database.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Database.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Business.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Business.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\obj\Debug\Monitoring.Database.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\obj\Debug\Monitoring.Database.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Database\obj\Debug\Monitoring.Database.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Database.dll.config
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Database.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Database.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Business.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\Monitoring.Business.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\obj\Debug\Monitoring.Database.csprojResolveAssemblyReference.cache
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\obj\Debug\Monitoring.Database.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Database\obj\Debug\Monitoring.Database.pdb

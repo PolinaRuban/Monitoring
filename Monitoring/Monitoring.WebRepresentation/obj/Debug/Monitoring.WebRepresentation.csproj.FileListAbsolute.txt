@@ -1,0 +1,121 @@
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.dll.config
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Antlr3.Runtime.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Bootstrapper.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Business.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Newtonsoft.Json.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Owin.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Helpers.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Mvc.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Optimization.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Razor.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\WebGrease.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Practices.Unity.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Database.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Bootstrapper.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Business.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Helpers.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Mvc.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Optimization.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Razor.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Antlr3.Runtime.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Newtonsoft.Json.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Practices.Unity.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Database.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.pdb
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.dll.config
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.pdb
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Antlr3.Runtime.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.SqlServer.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Bootstrapper.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Business.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Newtonsoft.Json.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Helpers.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Mvc.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Optimization.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Razor.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Deployment.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Razor.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\WebGrease.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Practices.Unity.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Database.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Owin.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Bootstrapper.pdb
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Business.pdb
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Helpers.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Mvc.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Optimization.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Razor.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Deployment.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Razor.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Antlr3.Runtime.pdb
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Newtonsoft.Json.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.SqlServer.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Practices.Unity.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Database.pdb
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.csprojResolveAssemblyReference.cache
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.dll
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.dll.config
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.WebRepresentation.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Bootstrapper.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Business.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Helpers.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Mvc.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Optimization.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Razor.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Practices.Unity.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Database.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Bootstrapper.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Business.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Helpers.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Mvc.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Optimization.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.Razor.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\EntityFramework.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Microsoft.Practices.Unity.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\bin\Monitoring.Database.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.csprojResolveAssemblyReference.cache
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.WebRepresentation\obj\Debug\Monitoring.WebRepresentation.pdb

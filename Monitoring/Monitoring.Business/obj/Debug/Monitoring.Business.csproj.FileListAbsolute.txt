@@ -1,0 +1,6 @@
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Business\bin\Debug\Monitoring.Business.dll
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Business\bin\Debug\Monitoring.Business.pdb
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Business\obj\Debug\Monitoring.Business.csprojResolveAssemblyReference.cache
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Business\obj\Debug\Monitoring.Business.dll
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Business\obj\Debug\Monitoring.Business.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Business\bin\Debug\Monitoring.Business.dll.config

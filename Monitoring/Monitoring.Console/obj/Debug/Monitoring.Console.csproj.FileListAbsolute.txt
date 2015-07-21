@@ -1,0 +1,42 @@
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.exe.config
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.exe
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.pdb
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.exe
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.pdb
+C:\Users\Polina\documents\visual studio 2013\Projects\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Bootstrapper.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Business.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Bootstrapper.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Business.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Database.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\EntityFramework.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Database.pdb
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\EntityFramework.xml
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Polina\Documents\Visual Studio 2013\Projects\Monitoring\Monitoring.Console\bin\Debug\System.Web.Http.WebHost.xml
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.exe.config
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.exe
+D:\Учеба\4.2 курс\Левшунов\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.exe.config
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.exe
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.exe
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Bootstrapper.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Business.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Database.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\EntityFramework.dll
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Bootstrapper.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Business.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Database.pdb
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\EntityFramework.xml
+C:\Users\Polina\OneDrive\Programming\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.csprojResolveAssemblyReference.cache
+C:\Users\pruban\OneDrive\Programming\Monitoring\Monitoring.Console\bin\Debug\Monitoring.Console.exe.config
+C:\Users\pruban\OneDrive\Programming\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.exe
+C:\Users\pruban\OneDrive\Programming\Monitoring\Monitoring.Console\obj\Debug\Monitoring.Console.pdb
